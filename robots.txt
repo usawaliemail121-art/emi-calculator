@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usawaliemail121-art.github.io/emi-calculator/sitemap.xml
